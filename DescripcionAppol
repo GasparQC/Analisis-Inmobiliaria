@@ -1,0 +1,30 @@
+# Análisis de Ventas y Segmentación de Clientes
+
+## Descripción
+Este proyecto fue desarrollado para proporcionar un análisis detallado de ventas, segmentación de clientes y métricas clave en el negocio. Utilizando Power BI, se crearon dashboards interactivos que permiten visualizar el rendimiento de productos, analizar el comportamiento de los clientes y detectar oportunidades de optimización en inventarios y márgenes de ganancia.
+
+## Objetivo
+El objetivo de este análisis es ayudar a la empresa a comprender mejor su rendimiento en ventas y tomar decisiones informadas mediante la identificación de patrones y tendencias relevantes en el comportamiento de compra de los clientes.
+
+## Contenido del Dashboard
+- **Análisis de Ventas**: resumen de las ventas totales, margen de ganancia y rendimiento de productos en diferentes períodos.
+- **Segmentación de Clientes**: clasificación de clientes basada en sus patrones de compra y lealtad.
+- **Gestión de Inventarios**: visualización de rotación de inventario y análisis de la efectividad de estrategias de stock.
+- **KPI Clave**: métricas de ventas y ganancia para monitorear la efectividad de ofertas, descuentos y campañas de marketing.
+
+## Tecnologías Utilizadas
+- **Power BI**: creación de dashboards interactivos.
+- **Power Query**: transformación de datos y proceso ETL.
+- **DAX**: creación de medidas y análisis de datos.
+- **Fuentes de datos**: archivo `.pbix` con datos ficticios para demostración del análisis.
+
+## Cómo Usar el Proyecto
+1. Clona este repositorio.
+2. Abre el archivo `.pbix` en Power BI Desktop.
+3. Explora los diferentes paneles y visualizaciones para analizar las métricas de ventas y segmentación de clientes.
+
+## Resultados Esperados
+Este análisis permite a la empresa optimizar sus decisiones en ventas e inventarios, mejorando la eficiencia y maximizando la rentabilidad.
+
+## Notas
+El archivo utiliza datos ficticios para propósitos de demostración. A medida que el proyecto evoluciona, se podrán agregar nuevas visualizaciones y análisis según los requisitos del negocio.
