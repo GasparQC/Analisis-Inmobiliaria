@@ -1,0 +1,57 @@
+# Análisis de Solicitudes de Soporte en Power BI (2016-2020)
+
+Este proyecto realiza un análisis completo en Power BI sobre las solicitudes de soporte (tickets) generadas entre los años 2016 y 2020. El objetivo es transformar y visualizar los datos de los tickets, los empleados que los generaron, y los agentes de TI que los atendieron, con el fin de extraer información relevante para la toma de decisiones.
+
+## Descripción del Proyecto
+
+### Situación
+El análisis se centra en la transformación y visualización de datos relacionados con solicitudes de soporte, también conocidos como *Tickets*, que representan las necesidades de asistencia técnica por parte de los empleados de la empresa. Estos tickets son atendidos por agentes de TI (equipo de soporte) y se incluye información sobre el feedback y la satisfacción de los empleados tras cada atención.
+
+### Objetivos
+- **Transformación de Datos**: Convertir los datos de tickets, empleados y agentes de TI en un formato procesable para Power BI.
+- **Visualización**: Crear visualizaciones que reflejen el desempeño del equipo de soporte, la frecuencia y naturaleza de los tickets, y la satisfacción de los empleados.
+- **Toma de Decisiones**: Proporcionar insights clave para mejorar la eficiencia del equipo de TI y la satisfacción de los empleados con el soporte recibido.
+
+## Contenido del Proyecto
+
+El archivo `TechPowerBI28-10.pbix` contiene el análisis en Power BI con las siguientes secciones y visualizaciones destacadas:
+
+1. **Resumen de Solicitudes de Soporte**:
+   - Cantidad de tickets por año.
+   - Distribución de tickets por tipo de solicitud y prioridad.
+   - Tiempo promedio de resolución.
+
+2. **Análisis de Desempeño de los Agentes de TI**:
+   - Desempeño de los agentes de soporte en función del tiempo de resolución y feedback de los empleados.
+   - Volumen de tickets atendidos por cada agente.
+   - Análisis de satisfacción basado en las evaluaciones de los empleados.
+
+3. **Satisfacción de los Empleados**:
+   - Distribución de opiniones y feedback sobre el soporte recibido.
+   - Análisis de los factores que afectan la satisfacción de los empleados.
+
+4. **Estadísticas Generales**:
+   - Estadísticas anuales y por trimestre de tickets generados, resueltos y pendientes.
+   - Comparación de la carga de trabajo de agentes de TI a lo largo del tiempo.
+
+## Herramientas y Aptitudes Utilizadas
+
+- **Microsoft Power BI**: Plataforma principal para visualización y análisis de datos.
+- **Microsoft Power Query**: Para transformar y limpiar los datos de origen.
+- **Data Analysis** y **Visualización de datos**: Creación de gráficos y visualizaciones de soporte.
+- **Microsoft Excel**: Procesamiento de datos preliminar (cuando es necesario).
+- **Modelado de datos relacionales**: Creación de un modelo de datos relacional en Power BI para conectar empleados, tickets y agentes de TI.
+
+## Instrucciones de Uso
+
+1. **Requisitos**: Asegúrate de contar con Microsoft Power BI Desktop para visualizar el archivo `.pbix`.
+2. **Apertura del archivo**: Descarga y abre el archivo `TechPowerBI28-10.pbix` en Power BI Desktop.
+3. **Exploración del análisis**: Navega entre las secciones y visualizaciones para explorar insights y estadísticas.
+4. **Filtro de datos**: Usa los filtros y segmentaciones para personalizar el análisis según criterios específicos como años, tipo de ticket o agentes.
+
+## Créditos
+
+Proyecto realizado en colaboración con el **Colegio Universitario IES**, como parte de las prácticas profesionales en análisis de datos, enfocadas en el uso de Power BI para mejorar la toma de decisiones.
+
+---
+
