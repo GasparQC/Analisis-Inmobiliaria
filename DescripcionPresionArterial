@@ -1,0 +1,43 @@
+# Análisis de Datos de Presión Arterial, Altura, Peso y Edad
+
+Este proyecto realiza un análisis exploratorio de datos relacionados con presión arterial, altura, peso y edad. Utiliza un conjunto de datos en formato CSV, en el que se exploran estadísticas descriptivas y se aplican técnicas de limpieza y visualización de datos.
+
+## Archivos en el repositorio
+
+- `Presion_Arterial.ipynb`: Notebook en Jupyter que contiene el código y el análisis detallado del dataset.
+
+## Descripción del Notebook
+
+### 1. Instalación de bibliotecas necesarias
+Se utilizan las siguientes bibliotecas de Python:
+- `pandas` para manipulación de datos.
+- `numpy` para operaciones numéricas.
+- `matplotlib` y `seaborn` para visualización de datos.
+
+### 2. Carga del Dataset
+El archivo de datos `talla-peso-edad.csv` se carga desde Google Drive, y contiene datos en las siguientes columnas:
+- `altura`: Altura de los individuos.
+- `peso`: Peso de los individuos.
+- `edad`: Edad de los individuos.
+- `pa_max`: Presión arterial máxima.
+
+### 3. Limpieza y Preprocesamiento
+- Se eliminan valores nulos en el dataset.
+- Se ajusta el formato de las columnas y se convierten algunos datos a tipo numérico.
+- Se eliminan valores atípicos para obtener un conjunto de datos más consistente.
+
+### 4. Análisis Estadístico
+- Se calculan estadísticas descriptivas, incluyendo media, mediana, desviación estándar y varianza.
+- Se presentan resúmenes estadísticos que ayudan a comprender mejor la distribución y variabilidad de los datos.
+
+### 5. Visualización
+- Las distribuciones de las variables de interés se pueden visualizar utilizando gráficos, aunque en las primeras celdas del archivo no se incluyó esta parte explícitamente.
+
+## Requisitos
+- **Python 3.x**
+- Bibliotecas de Python: `pandas`, `numpy`, `matplotlib`, `seaborn`
+
+## Cómo ejecutar el Notebook
+1. Clona este repositorio en tu máquina local:
+   ```bash
+   git clone https://github.com/tu-usuario/tu-repositorio.git
